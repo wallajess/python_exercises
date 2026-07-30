@@ -1,0 +1,1 @@
+print("Test\n" * 3)
