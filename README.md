@@ -1,2 +1,2 @@
 # python_exercises
-Exercises for practising Python
+Collection of exercises for the course Einführung in die Programmierung
